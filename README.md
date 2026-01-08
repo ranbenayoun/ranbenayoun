@@ -19,4 +19,4 @@
 
 
 ## 🏆 GitHub Trophies
-https://github-profile-trophy-liard-delta.vercel.app/?username=ranbenayoun
+![](https://github-profile-trophy-liard-delta.vercel.app/?username=ranbenayoun)
