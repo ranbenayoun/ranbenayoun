@@ -6,7 +6,6 @@
 ## 💫 About Me:
 - 🔭 **I learn something new every day**
 - 💬 Say hi and let's talk about tech
-- ✍️ Starting my GitHub journey
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,9 +13,9 @@
 <a href="https://www.youtube.com/channel/UC6WZ2a7bkFFs1L04vK94h9A" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thepassionator" height="30" width="40" /></a>
 </p>
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranbenayoun&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranbenayoun&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ranbenayoun&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ranbenayoun&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranbenayoun&theme=2077&utcOffset=+2)  
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranbenayoun&theme=default) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranbenayoun&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ranbenayoun&theme=default) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ranbenayoun&theme=default)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranbenayoun&theme=default&utcOffset=8)   
 
 
 ## 🏆 GitHub Trophies
