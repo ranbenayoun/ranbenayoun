@@ -6,6 +6,7 @@
 ## 💫 About Me:
 - 🔭 **I learn something new every day**
 - 💬 Say hi and let's talk about tech
+- ⭐ rating my projects would be much appreciated!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +17,3 @@
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranbenayoun&theme=default) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranbenayoun&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ranbenayoun&theme=default) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ranbenayoun&theme=default)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranbenayoun&theme=default&utcOffset=8)   
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy-liard-delta.vercel.app/?username=ranbenayoun)
